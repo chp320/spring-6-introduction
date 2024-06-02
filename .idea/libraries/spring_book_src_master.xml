@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-book-src-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spring-book-src-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
